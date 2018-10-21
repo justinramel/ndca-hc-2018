@@ -1,0 +1,324 @@
+{
+  "id": "21492",
+  "name": "Anthony Burrell",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Houghton CC",
+  "inBar": true,
+  "inVBar": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17235",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 9,
+        "date": "14 October 2018",
+        "club": "Houghton CC",
+        "position": "21",
+        "time": "0:02:32.0",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 107,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 107,
+    "remainingShortPoints": 733,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 733,
+    "predictedFinalPoints": 107,
+    "pointsDirection": 4,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 107,
+      "medium": 0,
+      "long": 0,
+      "grand": 107
+    }
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17235",
+        "raceCategory": "short",
+        "name": "Houghton Cycling Club",
+        "course": "MH10",
+        "distance": 0,
+        "fee": 9,
+        "date": "14 October 2018",
+        "club": "Houghton CC",
+        "position": "21",
+        "time": "0:02:32.0",
+        "speed": "0.00 Mph",
+        "bar": 107,
+        "barPosition": 14,
+        "vbar": 116,
+        "lbar": 0,
+        "jbar": 0
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 724,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 724,
+    "predictedFinalPoints": 812,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 116,
+      "medium": 0,
+      "long": 0,
+      "grand": 116
+    }
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "jbar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 840,
+    "remainingMediumPoints": 0,
+    "remainingLongPoints": 0,
+    "remainingPoints": 840,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    }
+  },
+  "races": [
+    {
+      "eventId": "17235",
+      "raceCategory": "short",
+      "name": "Houghton Cycling Club",
+      "course": "MH10",
+      "distance": 0,
+      "fee": 9,
+      "date": "14 October 2018",
+      "club": "Houghton CC",
+      "position": "21",
+      "time": "0:02:32.0",
+      "speed": "0.00 Mph",
+      "bar": 107,
+      "barPosition": 14,
+      "vbar": 116,
+      "lbar": 0,
+      "jbar": 0
+    }
+  ],
+  "position": 78,
+  "barHistory": [
+    {
+      "eventId": "17235",
+      "date": "14 October 2018",
+      "name": "MH10",
+      "points": {
+        "short": 107,
+        "medium": 0,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 74
+    },
+    {
+      "eventId": "17226",
+      "date": "21 October 2018",
+      "name": "MH21",
+      "points": {
+        "short": 107,
+        "medium": 0,
+        "long": 0,
+        "grand": 107
+      },
+      "position": 78
+    }
+  ],
+  "tags": [],
+  "rivals": [
+    {
+      "position": 1,
+      "id": "6199",
+      "pointsDirection": -23,
+      "barPredictedFinalPosition": 1,
+      "name": "Zeb Kyffin",
+      "club": "Ribble Pro Cycling",
+      "averagePointsPerRace": 119.85714285714286,
+      "predictedFinalPoints": 839,
+      "grandTotal": 839,
+      "complete": true,
+      "canComplete": true,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 75,
+      "id": "9755",
+      "pointsDirection": 0,
+      "name": "Dave Diston",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 111,
+      "predictedFinalPoints": 111,
+      "grandTotal": 111,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 76,
+      "id": "1908",
+      "pointsDirection": 3,
+      "name": "Fiona Burnie",
+      "club": "GS Metro",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 109,
+      "grandTotal": 109,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 77,
+      "id": "9999",
+      "pointsDirection": 0,
+      "name": "Wilf Sergant",
+      "club": "North Tyneside Riders CC",
+      "averagePointsPerRace": 109,
+      "predictedFinalPoints": 109,
+      "grandTotal": 109,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 78,
+      "id": "21492",
+      "pointsDirection": 4,
+      "name": "Anthony Burrell",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 107,
+      "predictedFinalPoints": 107,
+      "grandTotal": 107,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 79,
+      "id": "58",
+      "pointsDirection": 0,
+      "name": "John Bowman",
+      "club": "Muckle Cycle Club",
+      "averagePointsPerRace": 107,
+      "predictedFinalPoints": 107,
+      "grandTotal": 107,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 80,
+      "id": "26827",
+      "pointsDirection": 5,
+      "name": "Ellis Mccoy",
+      "club": "GS Metro",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    },
+    {
+      "position": 81,
+      "id": "692",
+      "pointsDirection": 5,
+      "name": "Colin Humphrey",
+      "club": "Houghton CC",
+      "averagePointsPerRace": 104,
+      "predictedFinalPoints": 104,
+      "grandTotal": 104,
+      "complete": false,
+      "canComplete": false,
+      "regionalChampionshipPoints": 0
+    }
+  ]
+}
